@@ -15,19 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JUHA%20&fontSize=90)
-
-<div align=center>
-
-  ## My tech 
-
-
-
-  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I&nbsp;AM&nbsp;JUHA%20&fontSize=90)
 <br><br><br>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khabh&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabh)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align=center>
+  
+  ## About me
+  <br><br>
+ 
+[![JUHA's github stats](https://github-readme-stats.vercel.app/api?username=khabh&count_private=true&custom_title=JUHA's&nbsp;github&nbsp&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabh&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
