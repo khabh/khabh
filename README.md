@@ -18,12 +18,16 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JUHA%20&fontSize=90)
 
 <div align=center>
-My tech 
+
+  ## My tech 
 
 
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+<br><br><br>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khabh&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabh)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khabh&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabh)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
