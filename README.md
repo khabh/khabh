@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 👋
+ 👋 EEFF00
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=I'm&nbsp;Juha&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A46AFA,100:a82da8&fontColor=FFFFFF&height=200&section=header&text=I'm&nbsp;Juha&fontSize=70)
 <br><br><br>
 <div align=center>
   
