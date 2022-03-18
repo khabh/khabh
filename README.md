@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  👋 EEFF00
+
+A46AFA
+FCE1E1 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A46AFA,100:a82da8&fontColor=FFFFFF&height=200&section=header&text=I'm&nbsp;Juha&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B4DD7,100:a82da8&fontColor=FFFFFF&height=200&section=header&text=I'm&nbsp;Juha&fontSize=70)
 <br><br><br><br>
 
 
