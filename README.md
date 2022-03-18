@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  👋
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=I'm&nbsp;Juha&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=I'm&nbsp;Juha&fontSize=70)
 <br><br><br>
 <div align=center>
   
