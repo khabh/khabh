@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 <br><br><br><br>
 <div align=center>
   
-  # About me
-  <br><br><br><br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabh&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
- 
+  ## About me💬
+ <br><br><br><br>
+</div>
+
 [![JUHA's github stats](https://github-readme-stats.vercel.app/api?username=khabh&count_private=true&custom_title=JUHA's&nbsp;github&nbsp&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabh&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
-  </div>
+
