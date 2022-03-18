@@ -22,7 +22,7 @@ FCE1E1
 
 
 [![JUHA's github stats](https://github-readme-stats.vercel.app/api?username=khabh&count_private=true&custom_title=JUHA's&nbsp;github&nbsp&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabh&custom_title=My&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhabh&count_bg=%23A27EE3&title_bg=%23B2ADB2&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
 
